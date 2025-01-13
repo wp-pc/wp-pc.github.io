@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.mobaijun.com/"/>
-  <updated>2025-01-13T17:15:25.512Z</updated>
+  <updated>2025-01-13T17:46:02.041Z</updated>
   <id>https://www.mobaijun.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客地址更换为https://www.mobaijun.com</title>
-    <link href="https://www.mobaijun.com/posts/3274106043.html"/>
-    <id>https://www.mobaijun.com/posts/3274106043.html</id>
-    <published>2020-04-23T01:46:47.000Z</published>
-    <updated>2025-01-13T17:15:25.512Z</updated>
+    <title>【C++】gRPC开发环境搭建(Windows &amp; Linux）.18618031</title>
+    <link href="https://www.mobaijun.com/posts/2541429631.html"/>
+    <id>https://www.mobaijun.com/posts/2541429631.html</id>
+    <published>2025-01-13T17:46:39.753Z</published>
+    <updated>2025-01-13T17:46:02.041Z</updated>
     
     <summary type="html">
     
@@ -29,26 +29,23 @@
       
         
         
-          &lt;h3 id=&quot;博客地址已经更换-请大家奔走相告&quot;&gt;&lt;a href=&quot;#博客地址已经更换-请大家奔走相告&quot; class=&quot;headerlink&quot; title=&quot;博客地址已经更换,请大家奔走相告&quot;&gt;&lt;/a&gt;博客地址已经更换,请大家奔走相告&lt;/h3&gt;&lt;p&gt;&lt;a
+          &lt;p&gt;由于github链接国内有时访问不了，导致安装grpc及其依赖时会报错，因此采用gitee安装，并更换其依赖为对应的gitee地址。windows选择MinGW进行编译，Linux下使用普通的make即可。&lt;/p&gt;
+&lt;h2 id=&quot;下载源码&quot;&gt;&lt;a
         
       
     
     </summary>
     
     
-      <category term="博客" scheme="https://www.mobaijun.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="告示" scheme="https://www.mobaijun.com/tags/%E5%91%8A%E7%A4%BA/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://www.mobaijun.com/posts/hello-world.html"/>
-    <id>https://www.mobaijun.com/posts/hello-world.html</id>
-    <published>2019-12-06T05:12:03.000Z</published>
-    <updated>2025-01-13T17:15:25.417Z</updated>
+    <title>【大数据】Accumulo开发实战.18634333</title>
+    <link href="https://www.mobaijun.com/posts/4224740333.html"/>
+    <id>https://www.mobaijun.com/posts/4224740333.html</id>
+    <published>2025-01-13T17:46:39.753Z</published>
+    <updated>2025-01-13T17:46:02.732Z</updated>
     
     <summary type="html">
     
@@ -56,17 +53,434 @@
       
         
         
-          &lt;h5 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言:&quot;&gt;&lt;/a&gt;引言:&lt;/h5&gt;&lt;p&gt;Hello World！
+          &lt;h1 id=&quot;Accumulo安装及其配置&quot;&gt;&lt;a href=&quot;#Accumulo安装及其配置&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
-      <category term="随笔" scheme="https://www.mobaijun.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内安装Scoop包管理器（镜像加速）.18637310</title>
+    <link href="https://www.mobaijun.com/posts/3340607821.html"/>
+    <id>https://www.mobaijun.com/posts/3340607821.html</id>
+    <published>2025-01-13T17:46:39.753Z</published>
+    <updated>2025-01-13T17:46:04.423Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;由于国内github访问不通畅，且多数开源软件托管在github，导致scoop体验极差，甚至安装Scoop这一步都无法进行。国内有位作者将scoop主程序托管在gitee，增加分流逻辑处理安装与更新所涉及的资源。&lt;br&gt;链接： &lt;a
+        
+      
+    
+    </summary>
     
     
-      <category term="其他" scheme="https://www.mobaijun.com/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>未命名 1.18652781</title>
+    <link href="https://www.mobaijun.com/posts/1857161078.html"/>
+    <id>https://www.mobaijun.com/posts/1857161078.html</id>
+    <published>2025-01-13T17:46:39.753Z</published>
+    <updated>2025-01-13T17:46:05.368Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;cr&quot;&gt;&lt;a href=&quot;#cr&quot; class=&quot;headerlink&quot; title=&quot;cr&quot;&gt;&lt;/a&gt;cr&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>原型模式的C++实现.18521524</title>
+    <link href="https://www.mobaijun.com/posts/3027099073.html"/>
+    <id>https://www.mobaijun.com/posts/3027099073.html</id>
+    <published>2025-01-13T17:46:39.753Z</published>
+    <updated>2025-01-13T17:45:16.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;原型模式的C-实现&quot;&gt;&lt;a href=&quot;#原型模式的C-实现&quot; class=&quot;headerlink&quot; title=&quot;原型模式的C++实现&quot;&gt;&lt;/a&gt;原型模式的C++实现&lt;/h1&gt;&lt;p&gt;原型模式: 根据已有原型构造新对象&lt;br&gt;实现思路:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Obsidian的博客园插件.18634352</title>
+    <link href="https://www.mobaijun.com/posts/2276731670.html"/>
+    <id>https://www.mobaijun.com/posts/2276731670.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:46:03.870Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;搬运&lt;/strong&gt;&lt;br&gt;  原文作者：ZhangBlog&lt;br&gt;  出处：&lt;a href=&quot;https://www.cnblogs.com/aaalei/p/17926199.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>malloc内存分配.18523096</title>
+    <link href="https://www.mobaijun.com/posts/4194481968.html"/>
+    <id>https://www.mobaijun.com/posts/4194481968.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:45:54.912Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;malloc内存分配&quot;&gt;&lt;a href=&quot;#malloc内存分配&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下通过MinGW编译源码安装Qt5.18653502</title>
+    <link href="https://www.mobaijun.com/posts/3823334859.html"/>
+    <id>https://www.mobaijun.com/posts/3823334859.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:44:38.703Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;目前Qt在线安装程序已不支持Qt5系列，因为我们需要通过源码安装Qt5及以下版本。&lt;/p&gt;
+&lt;p&gt;MSVC编译Qt5源码的教程网上已经有很多了，由于本人已经安装了MinGW，因此采用MinGW编译QT源码。&lt;/p&gt;
+&lt;p&gt;自己编译的话只需要下载mingw-w64编译器和Qt
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Lazy安装.18509451</title>
+    <link href="https://www.mobaijun.com/posts/2689768804.html"/>
+    <id>https://www.mobaijun.com/posts/2689768804.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:45:40.423Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;LazyNvim&quot;&gt;&lt;a href=&quot;#LazyNvim&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>冯诺依曼结构与哈佛结构.18660214</title>
+    <link href="https://www.mobaijun.com/posts/3785913209.html"/>
+    <id>https://www.mobaijun.com/posts/3785913209.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:44:36.536Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-冯诺依曼体系结构&quot;&gt;&lt;a href=&quot;#1-冯诺依曼体系结构&quot; class=&quot;headerlink&quot; title=&quot;1. 冯诺依曼体系结构&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>操作系统.18660053</title>
+    <link href="https://www.mobaijun.com/posts/4289565715.html"/>
+    <id>https://www.mobaijun.com/posts/4289565715.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:44:57.397Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;计算机结构&quot;&gt;&lt;a href=&quot;#计算机结构&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客园bilibili主题配置.18586347</title>
+    <link href="https://www.mobaijun.com/posts/4028207946.html"/>
+    <id>https://www.mobaijun.com/posts/4028207946.html</id>
+    <published>2025-01-13T17:46:39.738Z</published>
+    <updated>2025-01-13T17:45:59.877Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;页面定制CSS&quot;&gt;&lt;a href=&quot;#页面定制CSS&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>http协议初探.18523094</title>
+    <link href="https://www.mobaijun.com/posts/3626423119.html"/>
+    <id>https://www.mobaijun.com/posts/3626423119.html</id>
+    <published>2025-01-13T17:46:39.737Z</published>
+    <updated>2025-01-13T17:45:54.058Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;http协议初探&quot;&gt;&lt;a href=&quot;#http协议初探&quot; class=&quot;headerlink&quot; title=&quot;http协议初探&quot;&gt;&lt;/a&gt;http协议初探&lt;/h1&gt;&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C++中的RAII与内存管理.18538387</title>
+    <link href="https://www.mobaijun.com/posts/1745813866.html"/>
+    <id>https://www.mobaijun.com/posts/1745813866.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:45:44.925Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;资源获取即初始化（Resource Acquisition Is
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C++中调用C语言代码(extern “C”).18658707</title>
+    <link href="https://www.mobaijun.com/posts/4150644847.html"/>
+    <id>https://www.mobaijun.com/posts/4150644847.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:46:14.048Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;extern “C” 可以使我们在C++程序中调用C语言代码.extern “C”向程序编译器表明这段代码需要用C语言的方式编译。&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-C++&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CC++内存区域浅解.18413505</title>
+    <link href="https://www.mobaijun.com/posts/297486128.html"/>
+    <id>https://www.mobaijun.com/posts/297486128.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2024-09-16T02:51:38.853Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;C-C-内存分区&quot;&gt;&lt;a href=&quot;#C-C-内存分区&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Dodcker如何导入镜像tar.18616903</title>
+    <link href="https://www.mobaijun.com/posts/475630561.html"/>
+    <id>https://www.mobaijun.com/posts/475630561.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:46:01.252Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Dodcker如何导入镜像tar&quot;&gt;&lt;a href=&quot;#Dodcker如何导入镜像tar&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CLion破解.18642309</title>
+    <link href="https://www.mobaijun.com/posts/59404164.html"/>
+    <id>https://www.mobaijun.com/posts/59404164.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:46:06.230Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;下载与安装&lt;br&gt;此教程为CLion 2022.2.4 破解教程，且此教程以及下面提供的破解补丁适用与2022.2以后的新版本。&lt;br&gt;2022年11月10日亲测有效，mac与windows均测试完美破解&lt;/p&gt;
+&lt;p&gt;CLion 下载&lt;br&gt;Clion官网下载地址：&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Electron 调用C++ 程序.18523092</title>
+    <link href="https://www.mobaijun.com/posts/1219464248.html"/>
+    <id>https://www.mobaijun.com/posts/1219464248.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:45:51.761Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Electron-调用C-程序&quot;&gt;&lt;a href=&quot;#Electron-调用C-程序&quot; class=&quot;headerlink&quot; title=&quot;Electron 调用C++ 程序&quot;&gt;&lt;/a&gt;Electron 调用C++
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>C++虚函数解析.18523091</title>
+    <link href="https://www.mobaijun.com/posts/1970864034.html"/>
+    <id>https://www.mobaijun.com/posts/1970864034.html</id>
+    <published>2025-01-13T17:46:39.720Z</published>
+    <updated>2025-01-13T17:45:52.734Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;C-虚函数解析&quot;&gt;&lt;a href=&quot;#C-虚函数解析&quot; class=&quot;headerlink&quot; title=&quot;C++虚函数解析&quot;&gt;&lt;/a&gt;C++虚函数解析&lt;/h1&gt;&lt;script&gt;
+       
+        
+      
+    
+    </summary>
+    
+    
     
   </entry>
   
